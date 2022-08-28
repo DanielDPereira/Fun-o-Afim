@@ -25,5 +25,5 @@ else:
 
 print("Calculadora criada por Daniel Dias Pereira")
 
-#
+#Só para não fechar no CMD
 input()
