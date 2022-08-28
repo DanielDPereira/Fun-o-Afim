@@ -25,4 +25,5 @@ else:
 
 print("Calculadora criada por Daniel Dias Pereira")
 
+#
 input()
