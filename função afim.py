@@ -1,5 +1,5 @@
 print("Bem vindo a calculadora de função afim")
-print("f(x) =ax+b")
+print("f(x)=ax+b")
 
 a = float(input("Defina o valor de A: "))
 
